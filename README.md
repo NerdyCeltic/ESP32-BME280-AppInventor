@@ -9,7 +9,7 @@ I want to make it so the ESP32 will do two way bluetooth communication.
 This is just the first step into an end project to be able to display items on a<br> 
 screen and be able to manipulate them from my phone.<br>
 
-H2: ## XIAO ESP32 SPI Pinout
+## XIAO ESP32 SPI Pinout
 
 | ESP32 pin | BME 280 Pin | Color Code | Description |
 |:---:|:---:|:---:|:---:|
