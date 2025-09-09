@@ -17,3 +17,6 @@ screen and be able to manipulate them from my phone.<br>
 | Pin 7 | SCK | Brown | Clock |
 | Pin 8 | MISO | Blue | Master in Slave Out |
 | Pin 9 | MOSI | Green | Master Out Slave In |
+
+I am starting off with a project from mo-thunderz
+https://github.com/mo-thunderz/BleMobileAppMitAppInventor
